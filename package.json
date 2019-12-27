@@ -41,7 +41,7 @@
     "graphql-resolvers": "^0.3.2",
     "jsonwebtoken": "^8.4.0",
     "lodash": "^4.17.15",
-    "mongoose": "^5.3.14",
+    "mongoose": "^5.7.5",
     "path": "^0.12.7",
     "shortid": "^2.2.15",
     "uuid": "^3.3.2",
